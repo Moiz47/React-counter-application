@@ -1,2 +1,2 @@
 # react-counter-application
-code repo for the article https://ciphertrick.com/understanding-class-component-and-functional-component-in-reactjs/
+code repo for the article https://ciphertrick.com/understanding-class-component-functional-component-reactjs/
